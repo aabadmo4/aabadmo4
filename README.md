@@ -1,16 +1,117 @@
-### Adan Nahir Abad Mora 👋
-**Soluciones Informáticas NubezaTech**
-<!--
-**aabadmo4/aabadmo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Adan Nahir Abad Mora**
 
-Here are some ideas to get you started:
+   <img src="https://avatars.githubusercontent.com/u/73491660?v=4" style="width: 420px; height: 456px; position: center" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Personal info**
+
++ Date of birth: March 12th, 2000
++ Phone: +34 643 04 22 61
++ Driver License: B1
+  
+### **Social Networks**
+
++ E-Mail: [nahirnewlife@gmail.com](mailto:nahirnewlife@gmail.com)
++ Linkedin: [Adan Nahir Abad Mora](https://www.linkedin.com/in/adan-nahir-abad-mora-2a0267153/)
++ Github: [Adan Nahir Abad Mora](https://github.com/aabadmo4)
+
+### **About me**
+
+I was born in Zaragoza and I'm 222.
+<!---
+I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I finished my degree developing as Final Degree Project an [application for data collection in clinical study](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf). I am also passionate about new technologies and programming
+
+## **Academic background**
+  | Name                                                              | School                    | Start Date | End Date |
+|---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
+| Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio Santísimo Sacramento            | 2000          | 2014       |
+| Bachillerato Científico-tecnológico                                                | I.E.S Fortuny | 2014          | 2016       |
+| Software Engineering Degree        | Universidad Complutense de Madrid, U.C.M.      | 2016          | 2020      |
+
+  
+ ### **Other background**
+   | Name                                                              | School                    | Start Date | End Date |
+|---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
+| First Certificate of English | British Council          | 2013          | 2016       |
+| French B1 Level                                              | Escuela Oficial de Idiomas | 2013          | 2015       |
+| Regional Fencing Referee        | Federación Madrileña de esgrima      | 2015          | 2015     |
+| National Fencing Referee | Real Federación Española de esgrima        | 2016          | 2016       |
+
+  ### **Technical Skills**
+
+#### Software:
+  + Microsoft Office
+  + Presentation Tools such as Prezi or SlideShare
+  + Microsoft Visual Studio 
+  + Eclipse IDE
+  + IntelliJ IDEA
+  + Android Studio
+  + JavaFX
+  + IBM Rational Software Architec
+  + IBM Rational Software Architec Designer
+  + Visual Studio Code
+  + CodeBlocks
+  + NetBeans
+  + Git y GitHub
+  + Photoshop CS6
+  + Microsoft Access
+  + Microsoft Publisher
+  + Trello for Agile
+  + FeatureMap
+  + MongoDB
+  + XAMPP
+
+#### Programming Languajes and Frameworks:
+  + C++
+  + Java
+  + C
+  + HTML
+  + CSS
+  + JavaScript
+  + Node.js
+  + Express
+  + Sequelize ORM 
+  + PL/SQL
+  + Visual Basic
+  + XML
+  + Bash
+  + Markdown
+  + LaTex
+  + Bootstrap
+  + Vaadin Framework
+  + Spring MVC Framework
+  + Quintus Framework for JS Videogames
+  
+#### Other Knowledge:
+  + Unified Modeling Language, UML
+  + Traditional Methodologies like RUP
+  + Agile Methodologies such as Scrum, Kanban or Scrumban
+  + Filezilla FTP
+  + Microsoft Azure to deploy web apps
+  + SVN, GitHub version control
+
+## **Work Experience**
+
++ Maths and English private teacher
++ National and regional fencing referee
++ Youth centre monitor
++ Radio advertisements marker at ArceMedia
++ Web designer y Web master for:
+    + [Pepu Alcalde](http://pepualcalde.org/)
+    + [Tecrima](https://www.tecrima.com/)
++ Waiter at Covanegra Restaurant(Capdepera, Mallorca)
++ Software Engineer Intern at Avanade S.L.U: Jan. 2020 - May. 2020
+    + During the internship it was mostly training in web technologies such as AngularJS.
++ Junior Developer at Aghasa Turis: Jun. 2020 - Jun. 2021
+    + Development and implementation of web and desktop applications using web technologies such as Node.js, ExpressJS, Vue.js, etc...
++ Software Developer at FutureSpace: Jun. 2021 - Present
+
+## **Other Info**
+
+ - Ability to work in a team and carry out projects in a complementary way
+ - Communication and social skills
+ - Commitment and responsibility to my duties
+ - Pro-active
+ - Socialble
+ - Ability to create practical solutions
+ - Eagerness to learn
+ -->
