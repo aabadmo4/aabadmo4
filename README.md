@@ -16,18 +16,18 @@
 
 ### **About me**
 
-I was born in Zaragoza and I'm 222.
-<!---
-I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I finished my degree developing as Final Degree Project an [application for data collection in clinical study](https://eprints.ucm.es/id/eprint/62036/1/VIVAR_LAVINA_TFG_Ernesto_Vivar_Lavina_4398577_1929856684.pdf). I am also passionate about new technologies and programming
+I was born in Zaragoza (Spain) and I'm 22.
+
+I'm a contact center agent. I am also passionate about new technologies and programming (backend web developer), so I'm working my project Soluciones Informáticas NubezarTech.
 
 ## **Academic background**
   | Name                                                              | School                    | Start Date | End Date |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio Santísimo Sacramento            | 2000          | 2014       |
-| Bachillerato Científico-tecnológico                                                | I.E.S Fortuny | 2014          | 2016       |
-| Software Engineering Degree        | Universidad Complutense de Madrid, U.C.M.      | 2016          | 2020      |
+| Educación Primaria | CEIP Las Fuentes           | 2004          | 2012       |
+| Educación Secundaria Obligatoria, E.S.O | IES Fco. Grande Covian            | 2012          | 2016       |
+| Formación Profesional I  Instalaciones Eléctricas y Automáticas   | CPFP Condes de Aragón | 2016          | 2018       |
 
-  
+ <!---
  ### **Other background**
    | Name                                                              | School                    | Start Date | End Date |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
@@ -35,52 +35,29 @@ I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I 
 | French B1 Level                                              | Escuela Oficial de Idiomas | 2013          | 2015       |
 | Regional Fencing Referee        | Federación Madrileña de esgrima      | 2015          | 2015     |
 | National Fencing Referee | Real Federación Española de esgrima        | 2016          | 2016       |
+-->
 
   ### **Technical Skills**
 
 #### Software:
-  + Microsoft Office
-  + Presentation Tools such as Prezi or SlideShare
+  + Microsoft Office (Word, Excel, Acces, ...)
   + Microsoft Visual Studio 
-  + Eclipse IDE
-  + IntelliJ IDEA
-  + Android Studio
-  + JavaFX
-  + IBM Rational Software Architec
-  + IBM Rational Software Architec Designer
-  + Visual Studio Code
-  + CodeBlocks
-  + NetBeans
+  + Microsoft Visual Studio Code
   + Git y GitHub
   + Photoshop CS6
-  + Microsoft Access
-  + Microsoft Publisher
-  + Trello for Agile
-  + FeatureMap
-  + MongoDB
   + XAMPP
 
 #### Programming Languajes and Frameworks:
-  + C++
-  + Java
-  + C
+  + C#
   + HTML
   + CSS
   + JavaScript
-  + Node.js
-  + Express
-  + Sequelize ORM 
-  + PL/SQL
-  + Visual Basic
-  + XML
-  + Bash
   + Markdown
-  + LaTex
   + Bootstrap
-  + Vaadin Framework
-  + Spring MVC Framework
-  + Quintus Framework for JS Videogames
-  
+  + Php 
+  + MySQL
+  + Laravel
+ <!---
 #### Other Knowledge:
   + Unified Modeling Language, UML
   + Traditional Methodologies like RUP
@@ -104,7 +81,7 @@ I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I 
 + Junior Developer at Aghasa Turis: Jun. 2020 - Jun. 2021
     + Development and implementation of web and desktop applications using web technologies such as Node.js, ExpressJS, Vue.js, etc...
 + Software Developer at FutureSpace: Jun. 2021 - Present
-
+ -->
 ## **Other Info**
 
  - Ability to work in a team and carry out projects in a complementary way
@@ -114,4 +91,4 @@ I'm a Software Engineer by The Complutense University of Madrid. In July 2020 I 
  - Socialble
  - Ability to create practical solutions
  - Eagerness to learn
- -->
+
