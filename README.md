@@ -16,7 +16,7 @@
 
 ### **About me**
 
-I was born in Zaragoza (Spain) and I'm 22.
+I was born in Zaragoza (Spain) 2000.
 
 I'm a contact center agent. I am also passionate about new technologies and programming (backend web developer), so I'm working my project Soluciones Informáticas NubezarTech.
 
