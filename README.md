@@ -5,8 +5,7 @@
 ## **Personal info**
 
 + Date of birth: March 12th, 2000
-+ Phone: +34 643 04 22 61
-+ Driver License: B1
+  
   
 ### **Social Networks**
 
@@ -18,7 +17,7 @@
 
 I was born in Zaragoza (Spain) 2000.
 
-I'm a contact center agent. I am also passionate about new technologies and programming (backend web developer), so I'm working my project Soluciones Informáticas NubezarTech.
+I am a passionate about new technologies and programming (backend web developer), so I'm working my project Soluciones Informáticas NubezarTech.
 
 ## **Academic background**
   | Name                                                              | School                    | Start Date | End Date |
