@@ -1,93 +1,91 @@
-# **Adan Nahir Abad Mora**
+<h1 align="center">Adán Nahir Abad Mora</h1>
+<p align="center">
+  <b>Técnico de sistemas de seguridad · Redes · Desarrollo de herramientas internas</b><br>
+  Zaragoza, España
+</p>
 
-   <img src="https://avatars.githubusercontent.com/u/73491660?v=4" style="width: 420px; height: 456px; position: center" >
+<p align="center">
+  <a href="https://www.linkedin.com/in/adan-nahir-abad-mora-2a0267153/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/TechECS"><img src="https://img.shields.io/badge/TechECS-181717?style=for-the-badge&logo=github&logoColor=white" alt="TechECS"></a>
+  <a href="https://obraseincidenciaszaragoza.es/"><img src="https://img.shields.io/badge/Obras%20y%20Incidencias%20ZGZ-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Web"></a>
+</p>
 
-## **Personal info**
+---
 
-+ Date of birth: March 12th, 2000
-  
-  
-### **Social Networks**
+## 👋 Sobre mí
 
-+ E-Mail: [nahirnewlife@gmail.com](mailto:nahirnewlife@gmail.com)
-+ Linkedin: [Adan Nahir Abad Mora](https://www.linkedin.com/in/adan-nahir-abad-mora-2a0267153/)
-+ Github: [Adan Nahir Abad Mora](https://github.com/aabadmo4)
+Trabajo en el mundo real de la seguridad: **alarmas, CCTV y control de accesos** (Jablotron, Vanderbilt/Siemens SPC), y en paralelo administro **redes e infraestructura IT** (Google Workspace, Exchange). Programo para automatizar lo que veo que falta en el día a día: herramientas internas, CRMs, vigilancia de red y datos abiertos de mi ciudad.
 
-### **About me**
+Me muevo entre dos mundos —el campo y el código— y eso es lo que intento reflejar en lo que publico.
 
-I was born in Zaragoza (Spain) 2000.
+## 🚀 Proyectos destacados
 
-I am a passionate about new technologies and programming (backend web developer), so I'm working my project Soluciones Informáticas NubezarTech.
+| Proyecto | Descripción |
+|---|---|
+| 🚧 [**Obras e Incidencias Zaragoza**](https://github.com/aabadmo4/oi_zgz) · [web](https://obraseincidenciaszaragoza.es/) | Web con las obras e incidencias de Zaragoza a partir de datos públicos, actualizada automáticamente con GitHub Actions y publicada en GitHub Pages. |
+| 🛡️ [**TechCRA**](https://github.com/SecureTechES/TechCRA) | Herramienta para la gestión de una central receptora de alarmas. |
+| 📇 [**TechCRM_CIM**](https://github.com/TechECS/TechCRM_CIM) | CRM/ERP web para gestión de clientes y servicios. |
+| 📡 [**router_watchdog**](https://github.com/aabadmo4/router_watchdog) | Vigilancia del estado del router/conexión con acciones automáticas ante caídas. |
+| 📊 [**project_report**](https://github.com/aabadmo4/project_report) | Generación de informes de proyecto. |
+| ⚙️ [**org-ci-workflows**](https://github.com/TechECS/org-ci-workflows) | Workflows de CI reutilizables para los repositorios de la organización. |
 
-## **Academic background**
-  | Name                                                              | School                    | Start Date | End Date |
-|---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| Educación Primaria | CEIP Las Fuentes           | 2004          | 2012       |
-| Educación Secundaria Obligatoria, E.S.O | IES Fco. Grande Covian            | 2012          | 2016       |
-| Formación Profesional I  Instalaciones Eléctricas y Automáticas   | CPFP Condes de Aragón | 2016          | 2018       |
+## 🛠️ Stack
 
- <!---
- ### **Other background**
-   | Name                                                              | School                    | Start Date | End Date |
-|---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| First Certificate of English | British Council          | 2013          | 2016       |
-| French B1 Level                                              | Escuela Oficial de Idiomas | 2013          | 2015       |
-| Regional Fencing Referee        | Federación Madrileña de esgrima      | 2015          | 2015     |
-| National Fencing Referee | Real Federación Española de esgrima        | 2016          | 2016       |
--->
 
-  ### **Technical Skills**
 
-#### Software:
-  + Microsoft Office (Word, Excel, Acces, ...)
-  + Microsoft Visual Studio 
-  + Microsoft Visual Studio Code
-  + Git y GitHub
-  + Photoshop CS6
-  + XAMPP
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-#### Programming Languajes and Frameworks:
-  + C#
-  + HTML
-  + CSS
-  + JavaScript
-  + Markdown
-  + Bootstrap
-  + Php 
-  + MySQL
-  + Laravel
- <!---
-#### Other Knowledge:
-  + Unified Modeling Language, UML
-  + Traditional Methodologies like RUP
-  + Agile Methodologies such as Scrum, Kanban or Scrumban
-  + Filezilla FTP
-  + Microsoft Azure to deploy web apps
-  + SVN, GitHub version control
 
-## **Work Experience**
 
-+ Maths and English private teacher
-+ National and regional fencing referee
-+ Youth centre monitor
-+ Radio advertisements marker at ArceMedia
-+ Web designer y Web master for:
-    + [Pepu Alcalde](http://pepualcalde.org/)
-    + [Tecrima](https://www.tecrima.com/)
-+ Waiter at Covanegra Restaurant(Capdepera, Mallorca)
-+ Software Engineer Intern at Avanade S.L.U: Jan. 2020 - May. 2020
-    + During the internship it was mostly training in web technologies such as AngularJS.
-+ Junior Developer at Aghasa Turis: Jun. 2020 - Jun. 2021
-    + Development and implementation of web and desktop applications using web technologies such as Node.js, ExpressJS, Vue.js, etc...
-+ Software Developer at FutureSpace: Jun. 2021 - Present
- -->
-## **Other Info**
 
- - Ability to work in a team and carry out projects in a complementary way
- - Communication and social skills
- - Commitment and responsibility to my duties
- - Pro-active
- - Socialble
- - Ability to create practical solutions
- - Eagerness to learn
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+
+
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+**Seguridad e infraestructura:** sistemas de alarma e intrusión · CCTV · redes · Google Workspace · Exchange · cumplimiento RGPD/LOPDGDD
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aabadmo4&show_icons=true&hide_border=true&theme=transparent" alt="Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabadmo4&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes">
+</p>
+
+## 📫 Contacto
+
+Escríbeme por [LinkedIn](https://www.linkedin.com/in/adan-nahir-abad-mora-2a0267153/).
