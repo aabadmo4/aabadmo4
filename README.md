@@ -1,6 +1,6 @@
 <h1 align="center">Adán Nahir Abad Mora</h1>
 <p align="center">
-  <b>Técnico de sistemas de seguridad · Redes · Desarrollo de herramientas internas</b><br>
+  <b>Técnico de sistemas de seguridad · Redes · Desarrollo</b><br>
   Zaragoza, España
 </p>
 
@@ -14,22 +14,43 @@
 
 ## 👋 Sobre mí
 
-Trabajo en el mundo real de la seguridad: **alarmas, CCTV y control de accesos** (Jablotron, Vanderbilt/Siemens SPC), y en paralelo administro **redes e infraestructura IT** (Google Workspace, Exchange). Programo para automatizar lo que veo que falta en el día a día: herramientas internas, CRMs, vigilancia de red y datos abiertos de mi ciudad.
+Trabajo en el mundo real de la seguridad: **alarmas, CCTV y control de accesos**, y en paralelo administro **redes e infraestructura IT**. Programo para automatizar lo que veo que falta en el día a día: herramientas internas, CRMs, vigilancia de red y datos abiertos de mi ciudad.
 
-Me muevo entre dos mundos —el campo y el código— y eso es lo que intento reflejar en lo que publico.
+Me muevo entre dos mundos, el campo y el código, y eso es lo que intento reflejar en lo que publico.
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| 🚧 [**Obras e Incidencias Zaragoza**](https://github.com/aabadmo4/oi_zgz) · [web](https://obraseincidenciaszaragoza.es/) | Web con las obras e incidencias de Zaragoza a partir de datos públicos, actualizada automáticamente con GitHub Actions y publicada en GitHub Pages. |
-| 🛡️ [**TechCRA**](https://github.com/SecureTechES/TechCRA) | Herramienta para la gestión de una central receptora de alarmas. |
-| 📇 [**TechCRM_CIM**](https://github.com/TechECS/TechCRM_CIM) | CRM/ERP web para gestión de clientes y servicios. |
-| 📡 [**router_watchdog**](https://github.com/aabadmo4/router_watchdog) | Vigilancia del estado del router/conexión con acciones automáticas ante caídas. |
-| 📊 [**project_report**](https://github.com/aabadmo4/project_report) | Generación de informes de proyecto. |
-| ⚙️ [**org-ci-workflows**](https://github.com/TechECS/org-ci-workflows) | Workflows de CI reutilizables para los repositorios de la organización. |
+🚧 **[Obras e Incidencias Zaragoza](https://github.com/aabadmo4/oi_zgz)** · [ver web](https://obraseincidenciaszaragoza.es/)
+Obras e incidencias de Zaragoza a partir de datos públicos, actualizadas con GitHub Actions y publicadas en GitHub Pages.
 
-## 🛠️ Stack
+🛡️ **[TechCRA](https://github.com/SecureTechES/TechCRA)**
+Herramienta para la gestión de una central receptora de alarmas.
+
+📇 **[TechCRM_CIM](https://github.com/TechECS/TechCRM_CIM)**
+CRM/ERP web para gestión de clientes y servicios.
+
+📡 **[router_watchdog](https://github.com/aabadmo4/router_watchdog)**
+Vigilancia de la conexión del router con acciones automáticas ante caídas.
+
+📊 **[project_report](https://github.com/aabadmo4/project_report)**
+Generación de informes de proyecto.
+
+⚙️ **[org-ci-workflows](https://github.com/TechECS/org-ci-workflows)**
+Workflows de CI reutilizables para los repositorios de la organización.
+
+## 🛠️ Lo que hago
+
+**🔐 Seguridad electrónica**
+- Centrales de intrusión: Risco, Jablotron, Vanderbilt/Siemens SPC, Honeywell Galaxy
+- CCTV: Dahua, Hikvision, integración ONVIF
+
+**🌐 Redes e infraestructura**
+- MikroTik, OpenWrt, VPN
+- Directorio Activo
+- Virtualización de entornos y aplicaciones
+
+**💻 Desarrollo**
+- Web y escritorio
 
 
 
@@ -73,18 +94,9 @@ Me muevo entre dos mundos —el campo y el código— y eso es lo que intento re
 
 
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 
 
-
-**Seguridad e infraestructura:** sistemas de alarma e intrusión · CCTV · redes · Google Workspace · Exchange · cumplimiento RGPD/LOPDGDD
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aabadmo4&show_icons=true&hide_border=true&theme=transparent" alt="Stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabadmo4&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes">
-</p>
 
 ## 📫 Contacto
 
