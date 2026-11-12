@@ -23,12 +23,6 @@ Me muevo entre dos mundos, el campo y el código, y eso es lo que intento reflej
 🚧 **[Obras e Incidencias Zaragoza](https://github.com/aabadmo4/oi_zgz)** · [ver web](https://obraseincidenciaszaragoza.es/)
 Obras e incidencias de Zaragoza a partir de datos públicos, actualizadas con GitHub Actions y publicadas en GitHub Pages.
 
-🛡️ **[TechCRA](https://github.com/SecureTechES/TechCRA)**
-Herramienta para la gestión de una central receptora de alarmas.
-
-📇 **[TechCRM_CIM](https://github.com/TechECS/TechCRM_CIM)**
-CRM/ERP web para gestión de clientes y servicios.
-
 📡 **[router_watchdog](https://github.com/aabadmo4/router_watchdog)**
 Vigilancia de la conexión del router con acciones automáticas ante caídas.
 
